@@ -1,0 +1,14 @@
+{
+  "name": "knex-seed-multiple-tables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbie Jaeger",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.13.0"
+  }
+}
