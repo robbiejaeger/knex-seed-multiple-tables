@@ -9,6 +9,7 @@
   "author": "Robbie Jaeger",
   "license": "MIT",
   "dependencies": {
-    "knex": "^0.13.0"
+    "knex": "^0.13.0",
+    "pg": "^6.2.2"
   }
 }
