@@ -10,7 +10,7 @@ exports.seed = function(knex, Promise) {
       return knex('merchants').insert(merchantsData);
     })
     .then(() => {
-      var productPromises = [];
+      let productPromises = [];
       productsData.forEach((product) => {
         let merchant = product.merchant;
         productPromises.push(createProduct(knex, product, merchant));
