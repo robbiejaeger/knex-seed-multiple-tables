@@ -6,7 +6,7 @@ module.exports = [
   },
   {
     merchant: 'River North',
-    name: 'Rose-scented beesewax candle',
+    name: 'Rose-scented beeswax candle',
     price: 829
   },
   {
@@ -16,7 +16,7 @@ module.exports = [
   },
   {
     merchant: 'Crow and Nail',
-    name: 'Recycled wood tressle bench',
+    name: 'Recycled wood trestle bench',
     price: 1099
   }
 ];
